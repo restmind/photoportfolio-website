@@ -1,0 +1,12 @@
+body {
+  background: #fff;
+  font-family: "Roboto", "Arial", sans-serif;
+}
+
+img {
+  width: 30vw;
+}
+
+.container {
+  margin: 2.5vw 0;
+}
